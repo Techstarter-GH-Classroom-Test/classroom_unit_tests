@@ -1,5 +1,5 @@
 import unittest
-import main.py
+import main
 
 class TestNameVariable(unittest.TestCase):
     def test_name_variable(self):
