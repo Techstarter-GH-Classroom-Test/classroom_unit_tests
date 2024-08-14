@@ -1,7 +1,7 @@
 import unittest
 import my_sets 
 
-class TestVariableAssignments(unittest.TestCase):
+class Test(unittest.TestCase):
     
     def test_exercise_1(self):
         # Check if 'x' is defined
